@@ -1,0 +1,68 @@
+<section id="browse">
+	<div class="row" id="spacer"></div>
+	<div class="row">
+		<div class="large-5 large-centered columns">
+			<h2 class="text-center">Find campaign services</h2>
+		</div>	
+	</div>
+	<div class="row" id="spacer"></div>
+
+	<div class="row collapse">
+			<div class="large-4 large-offset-3 columns">
+				 <input type="text" placeholder="What do you want to do?">
+			</div>
+			<div class="large-2 columns end">
+				  <a href="#" id="searchbtn" class="alert button expand">Find services</a>
+			</div>	
+	</div>
+
+	<div class="row" id="spacer"></div>
+	
+	<div class="row">
+		<div class="large-10 large-offset-1 columns">
+			<ul class="large-block-grid-4">
+				<li>
+						<a href="#">
+							<img src="<?php echo get_template_directory_uri(); ?>/img/browse/strategy.jpg"/>
+							<h3 class="text-center" id="browseh3">Get strategists</h3>
+						</a>
+				</li>
+				<li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/fund.jpg"/><h3 class="text-center" id="browseh3">Fundraise</h3></a> </li>
+				<li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/research.jpg"/><h3 class="text-center" id="browseh3">Researchers</h3></a> </li>
+				<li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/social.jpg"/><h3 class="text-center" id="browseh3">Social gurus</h3></a> </li>
+				<li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/dm.jpg"/><h4 class="text-center" id="browseh3">Direct mail and Letterbox drops</h4></a> </li>
+				<li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/webdev.jpg"/><h3 class="text-center" id="browseh3">Web developers</h3></a> </li>
+				<li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/data.jpg"/><h3 class="text-center" id="browseh3">Dig your data</h3></a> </li>
+				<li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/design.jpg"/><h3 class="text-center" id="browseh3">Designers</h3></a> </li>
+				<li id="bottombrowserow"><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/media.jpg"/><h4 class="text-center" id="browseh3">Media professionals</h4></a> </li>
+				<li id="bottombrowserow"><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/call.jpg"/><h4 class="text-center" id="browseh3">Call centre and polling</h4></a> </li>
+				<li id="bottombrowserow"><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/training.jpg"/><h3 class="text-center" id="browseh3">Trainers</h3></a> </li>
+				<li id="bottombrowserow"><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/browse/email.jpg"/><h4 class="text-center" id="browseh3">Email and copywriters</h4></a> </li>
+
+			</ul>
+		</div>
+	</div>
+	
+</section>
+
+
+
+
+/////Bottom
+<div class="row">
+		<div class="large-3 large-offset-3 columns">
+			<a href="/knowledgebase"><img src="<?php echo get_template_directory_uri(); ?>/img/knowledgebase.jpg"/></a>
+		</div>
+		<div class="large-3 large-offset-1 columns end">
+			<a href="/blog"><img src="<?php echo get_template_directory_uri(); ?>/img/blog.jpg"/></a>
+		</div>
+	</div>
+	<div class="row" id="spacer"></div>
+	<div class="row">
+		<div class="large-3 large-offset-3 columns">
+			<a href="/knowledgebase"><h3>KnowledgeBase</h3></a>
+		</div>
+		<div class="large-2 large-offset-1 columns end">
+			<a href="/blog"><h3 class="text-center">S+F blog</h3></a>
+		</div>
+	</div>
